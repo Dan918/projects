@@ -7,3 +7,5 @@ credit spread trading - this was fast and wish i just optimized this in the begi
 TRS - calc mtm of fngu eq basket vs. etf | use for mispricing
 
 TVM - time value of money calc
+
+models - free cashflow model & div discount model in py with data pull from yfinance
